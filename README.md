@@ -7,11 +7,6 @@
 <h1 align="center">3kh0 v5</h1>
 <p align="center">The refined unblocked games website.</p>
 
-
-This is the GitHub repo which is used to host the website. If you want to use the games on 3kh0 on your website, please message `silvereen_` on Discord.
-<!-- More people will be using light mode in their web browser -->
-[![Join the 3kh0Dev Discord](https://invidget.switchblade.xyz/wv6huJAwEv?theme=light)](https://discord.io/3kh0_)
-
 > Made by Silvereen and NC \
 > **If you do fork this repo, please give the orginal repo a star! It helps out a lot.**
 
